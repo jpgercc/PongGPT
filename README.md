@@ -1,5 +1,6 @@
 # PongGPT
 A simple pong game, created using prompts in chatGPT, I tried to change as little as possible and this was the result.
+~The game is in Portuguese, Brazil.~
 ```
 1- Use the latest version of java (17 LTS or 19).
 2- Have fun
